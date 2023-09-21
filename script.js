@@ -56,13 +56,7 @@ name.onload=function(){
 }
 
 
-
-
-
-
 //Print the country which use US Dollars as currency.
-
-     
 
 let country=new XMLHttpRequest()
 country.open("GET","https://restcountries.com/v3.1/all");
